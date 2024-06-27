@@ -1,6 +1,6 @@
 # Yolo-segmentation-to-Coco-segmentation
 
-(modified from here https://github.com/claudio9russo7/YolosegmentationtoCocosegmentation save annotation in one json file like orignal COCO annotation for segmemtation instead of single file for every image)
+(modified from here https://github.com/claudio9russo7/YolosegmentationtoCocosegmentation) This code save annotation in one json file like orignal COCO annotation for segmemtation instead of single file for every image)
 
 This is a script useful to transform Yolo segmentation annotation in Coco segmentation annotation.\
 The script uses basic python package (json, PIL and os).\
